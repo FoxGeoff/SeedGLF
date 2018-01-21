@@ -1,4 +1,4 @@
-# Angular, ASP.NET Core Customers Service Application
+# ASP.NET Core 2.0 and Angular 4.0 Starter Project 
 
 This project demonstrates how Angular and ASP.NET Core can be used together.
 
